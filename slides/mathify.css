@@ -116,6 +116,8 @@ img {
   width: 10%;
   height: 10%;
   margin: 0 auto;
+  touch-action: pan-x pinch-zoom;
+  -ms-touch-action: pan-x pinch-zoom;
 }
 
 .reveal section img { 
@@ -128,6 +130,8 @@ img {
   width: 10%;
   height: 10%;
   margin: 0 auto;
+  touch-action: pan-x pinch-zoom;
+  -ms-touch-action: pan-x pinch-zoom;
 }
 
 .reveal .mover{
