@@ -4,13 +4,12 @@ date: "`r format(Sys.time(), '%d %B %Y')`"
 author:  "<hr class=\"style1\">Tanmay Mogra"
 published: false
 slideNumber: true
-width: 1600
-height: 1000
+minScale: 0.2
+maxScale: 2.0
+disableLayout: true
 transition: fade
 output:
   revealjs::revealjs_presentation:
-    width: 100%
-    height: 100%
     incremental: true
     center: false
     css: mathify.css
@@ -25,6 +24,8 @@ output:
         color: ['rgba(255, 0, 0, 0.3)'] # red
       previewLinks: true
       slideNumber: true
+      height: 90%
+      width: 100%
   beamer_presentation:
     toc: false
     incremental: true
@@ -38,7 +39,9 @@ output:
 - Has been studied by mankind for thousands of years.
 
 <div class="fragment">
+
 ![Icon](Icon-Trigonometry.jpeg){height=20%, width=20%}
+
 </div>
 
 # Angles and its Measurements
@@ -50,10 +53,10 @@ output:
 
 </div>
 
-<div class="fragment" align>
+<div class="fragment">
 **Sense of an Angle: ** <br>
 
-![Angle](positive-negative.svg){height=50%, width=50%}
+![Angle2](positive-negative.svg){height=50%, width=50%}
 
 </div>
 
