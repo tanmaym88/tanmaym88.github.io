@@ -24,6 +24,7 @@ $black:                    #000;
 .reveal p {
   text-align: left;
   font-size: 3.5vmin;
+  touch-action: pan-x pinch-zoom;
 }
 
 .reveal h1 {
@@ -45,6 +46,7 @@ $black:                    #000;
   padding-right: 15%;
   font-size: 3.5vmin;
   text-align: justify;
+  touch-action: pan-x pinch-zoom;
 }
 
 .reveal ol {
