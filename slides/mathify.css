@@ -116,7 +116,7 @@ img {
   width: 10%;
   height: 10%;
   margin: 0 auto;
-  touch-action: manipulation;
+  touch-action: pan-x pinch-zoom;
 }
 
 .reveal section img { 
@@ -129,5 +129,5 @@ img {
   width: 10%;
   height: 10%;
   margin: 0 auto;
-  touch-action: manipulation;
+  touch-action: pan-x pinch-zoom;
 }
