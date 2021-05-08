@@ -19,6 +19,7 @@ $black:                    #000;
   height: 100%;
   top: 0;
   margin-top: 0;
+  touch-action: manipulation;
 }
 
 .reveal p {
@@ -33,6 +34,7 @@ $black:                    #000;
 
 .reveal h2 {
   font-size: 4vmin;
+  
 }
 
 .reveal ul {
@@ -46,7 +48,6 @@ $black:                    #000;
   padding-right: 15%;
   font-size: 3.5vmin;
   text-align: justify;
-  touch-action: pan-x pinch-zoom;
 }
 
 .reveal ol {
@@ -118,7 +119,6 @@ $black:                    #000;
   width: 10%;
   height: 10%;
   margin: 0 auto;
-  touch-action: pan-x pinch-zoom;
 }
 
 .reveal section img { 
@@ -131,5 +131,4 @@ $black:                    #000;
   width: 10%;
   height: 10%;
   margin: 0 auto;
-  touch-action: pan-x pinch-zoom;
 }
