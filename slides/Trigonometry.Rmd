@@ -18,6 +18,8 @@ output:
     highlight: zenburn
     self_contained: false
     reveal_plugins: ["notes", "zoom", "chalkboard"]
+    overview: false
+    touch-action: pinch-zoom
     reveal_options:
       chalkboard:
         theme: whiteboard
@@ -26,8 +28,7 @@ output:
       slideNumber: true
       height: 100%
       width: 100%
-      overview: false
-      touch-action: pinch-zoom
+     
   beamer_presentation:
     toc: false
     incremental: true
