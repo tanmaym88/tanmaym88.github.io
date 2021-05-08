@@ -131,6 +131,6 @@ img {
 }
 
 .reveal .mover{
-  touch-action: auto pinch-zoom;
-  -ms-touch-action: auto pinch-zoom;
+  touch-action: pan-x pinch-zoom;
+  -ms-touch-action: pan-x pinch-zoom;
 }
