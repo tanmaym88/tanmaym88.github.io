@@ -129,3 +129,8 @@ img {
   height: 10%;
   margin: 0 auto;
 }
+
+.reveal .mover{
+  touch-action: none;
+  -ms-touch-action: none;
+}
