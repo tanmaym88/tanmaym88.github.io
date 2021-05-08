@@ -38,10 +38,11 @@ $black:                    #000;
   display: block;
   width: 100%;
   font-size: 100%;
+  padding-right: 10%;
 }
 
 .reveal li {
-  padding-right: 25%;
+  padding-right: 15%;
   font-size: 3.5vmin;
   text-align: justify;
 }

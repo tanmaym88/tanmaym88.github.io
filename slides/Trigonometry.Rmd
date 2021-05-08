@@ -24,8 +24,10 @@ output:
         color: ['rgba(255, 0, 0, 0.3)'] # red
       previewLinks: true
       slideNumber: true
-      height: 90%
+      height: 100%
       width: 100%
+      overview: false
+      touch-action: pinch-zoom
   beamer_presentation:
     toc: false
     incremental: true
