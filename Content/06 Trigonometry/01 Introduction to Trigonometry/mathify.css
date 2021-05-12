@@ -1,42 +1,24 @@
-// @import "compass/css3";
-
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
-
-
-/* =Variables
------------------------------------------------------------------------------ */
-$dark-blue:                #204056;
-$light-blue:               #59A1C9;
-$aqua:                     #39D1B4;
-$salmon:                   #F65A5B;
-
-// Grayscale
-$white:                    #fff;
-$black:                    #000;
-.reveal{
-  touch-action: manipulation;
-}
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap&text=Hello');
 
 .reveal slides {
   text-align: justify;
-  height: 100%;
   top: 0;
   margin-top: 0;
+  padding-bottom: 2%;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .reveal p {
-  text-align: left;
-  font-size: 3.5vmin;
-  touch-action: pan-x pinch-zoom;
+  text-align: justify;
+  font-size: 3vmin;
 }
 
 .reveal h1 {
-  font-size: 5vmin;
+  font-size: 6vmin;
 }
 
 .reveal h2 {
-  font-size: 4vmin;
-  
+  font-size: 5vmin;
 }
 
 .reveal ul {
@@ -48,7 +30,7 @@ $black:                    #000;
 
 .reveal li {
   padding-right: 15%;
-  font-size: 3.5vmin;
+  font-size: 3vmin;
   text-align: justify;
 }
 
@@ -81,7 +63,6 @@ $black:                    #000;
   border: 0;
   max-width: 100%;
   position: relative;
-  margin: 30px auto;
 } 
 
 .reveal hr.style2{
@@ -118,8 +99,6 @@ $black:                    #000;
   display: block;
   width: auto;
   height: auto;
-  width: 10%;
-  height: 10%;
   margin: 0 auto;
 }
 
@@ -130,7 +109,5 @@ $black:                    #000;
   display: block;
   width: auto;
   height: auto;
-  width: 10%;
-  height: 10%;
   margin: 0 auto;
 }

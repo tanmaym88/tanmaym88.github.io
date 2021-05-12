@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="113.68mm" height="38.366mm" version="1.1" viewBox="0 0 113.68 38.366" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="49.318mm" height="39.167mm" version="1.1" viewBox="0 0 49.318 39.167" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <marker id="marker4141" overflow="visible" orient="auto">
    <path transform="scale(.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-opacity=".91372" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-opacity=".91372" stroke-width=".625"/>
@@ -35,16 +35,16 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g transform="translate(-98.71 -52.396)">
+ <g transform="translate(-42.588 -52.2)">
   <g stroke="#000">
-   <path d="m45.773 87.048 42.995-0.26458" fill="none" marker-end="url(#marker2083)" stroke-width=".26458px"/>
-   <path d="m45.773 87.048 31.089-29.898" fill="none" marker-end="url(#Arrow1Mend)" stroke-width=".26458px"/>
-   <path transform="rotate(-42.522)" d="m-19.806 95.093a5.2917 5.2917 0 0 1-1.4091 3.5955" fill-opacity="0" stroke-width=".25646"/>
+   <path d="m46.148 86.779 42.638-0.25551" fill="none" marker-end="url(#marker2083)" stroke-width=".26458px"/>
+   <path d="m46.148 86.779 30.831-28.872" fill="none" marker-end="url(#Arrow1Mend)" stroke-width=".26458px"/>
+   <path transform="matrix(.74589 -.66607 .68557 .728 0 0)" d="m-20.722 95.499a5.1853 5.1735 0 0 1-1.3808 3.5152" fill-opacity="0" stroke-width=".25651"/>
   </g>
   <g fill="#000000" font-family="sans-serif" stroke-width=".26458">
-   <text transform="scale(.96673 1.0344)" x="44.19001" y="87.457512" font-size="3.8295px" style="line-height:1.25" xml:space="preserve"><tspan x="44.19001" y="87.457512" stroke-width=".26458">O</tspan></text>
-   <text transform="scale(1.0512 .95133)" x="71.607719" y="59.075294" font-size="4.3373px" style="line-height:1.25" xml:space="preserve"><tspan x="71.607719" y="59.075294" stroke-width=".26458">B</tspan></text>
-   <text transform="scale(.95943 1.0423)" x="92.094528" y="86.666542" font-size="3.9588px" style="line-height:1.25" xml:space="preserve"><tspan x="92.094528" y="86.666542" stroke-width=".26458">A</tspan></text>
+   <text transform="scale(.90699 1.1026)" x="47.830421" y="81.900726" font-size="4.0479px" style="line-height:1.25" xml:space="preserve"><tspan x="47.830421" y="81.900726" stroke-width=".26458">O</tspan></text>
+   <text transform="scale(.9862 1.014)" x="77.650833" y="55.799198" font-size="4.5847px" style="line-height:1.25" xml:space="preserve"><tspan x="77.650833" y="55.799198" stroke-width=".26458">B</tspan></text>
+   <text transform="scale(.93411 1.0705)" x="94.612793" y="84.249382" font-size="4.0324px" style="line-height:1.25" xml:space="preserve"><tspan x="94.612793" y="84.249382" stroke-width=".26458">A</tspan></text>
   </g>
   <g fill="none" stroke="#000">
    <path d="m101.56 86.244 42.995-0.26459" marker-end="url(#marker2083-2)" stroke-width=".26458px"/>
@@ -52,11 +52,11 @@
    <path transform="rotate(-42.522)" d="m21.851 132.2a5.2917 5.2917 0 0 1-1.4091 3.5955" marker-start="url(#marker4141)" stroke-opacity=".91372" stroke-width=".256"/>
   </g>
   <g fill="#000000" font-family="sans-serif" stroke-width=".26458">
-   <text transform="scale(.9288 1.0767)" x="106.05309" y="83.507034" font-size="3.9859px" style="line-height:1.25" xml:space="preserve"><tspan x="106.05309" y="83.507034" stroke-width=".26458">O</tspan></text>
-   <text transform="scale(1.0099 .99018)" x="129.76651" y="56.198009" font-size="4.5144px" style="line-height:1.25" xml:space="preserve"><tspan x="129.76651" y="56.198009" stroke-width=".26458">B</tspan></text>
-   <text transform="scale(.92179 1.0848)" x="156.37079" y="82.755638" font-size="4.1205px" style="line-height:1.25" xml:space="preserve"><tspan x="156.37079" y="82.755638" stroke-width=".26458">A</tspan></text>
+   <text transform="scale(.89502 1.1173)" x="110.05655" y="80.688637" font-size="4.1364px" style="line-height:1.25" xml:space="preserve"><tspan x="110.05655" y="80.688637" stroke-width=".26458">O</tspan></text>
+   <text transform="scale(.97318 1.0276)" x="134.66501" y="54.397076" font-size="4.6849px" style="line-height:1.25" xml:space="preserve"><tspan x="134.66501" y="54.397076" stroke-width=".26458">B</tspan></text>
+   <text transform="scale(.88826 1.1258)" x="162.27368" y="79.967369" font-size="4.276px" style="line-height:1.25" xml:space="preserve"><tspan x="162.27368" y="79.967369" stroke-width=".26458">A</tspan></text>
    <text x="114.84979" y="83.220108" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="114.84979" y="83.220108" stroke-width=".26458"/></text>
-   <text transform="scale(1.1027 .90688)" x="97.18499" y="93.685417" font-size="4.6247px" style="line-height:1.25" xml:space="preserve"><tspan x="97.18499" y="93.685417" stroke-width=".26458">θ</tspan></text>
+   <text transform="scale(1.0626 .94111)" x="101.97181" y="90.257423" font-size="4.7993px" style="line-height:1.25" xml:space="preserve"><tspan x="101.97181" y="90.257423" stroke-width=".26458">θ</tspan></text>
   </g>
   <g fill="none" stroke="#000">
    <path d="m165.54 56.403 42.995 0.26459" marker-end="url(#marker2083-2-3)" stroke-width=".26458px"/>
@@ -64,10 +64,10 @@
    <path transform="matrix(.73702 .67587 .67587 -.73702 0 0)" d="m165.42 70.313a5.2917 5.2917 0 0 1-1.4091 3.5955" marker-start="url(#marker4141-0)" stroke-opacity=".91372" stroke-width=".256"/>
   </g>
   <g fill="#000000" font-family="sans-serif" stroke-width=".26458">
-   <text transform="scale(.9288 1.0767)" x="174.23058" y="52.976128" font-size="3.9859px" style="line-height:1.25" xml:space="preserve"><tspan x="174.23058" y="52.976128" stroke-width=".26458">O</tspan></text>
-   <text transform="scale(1.0099 .99018)" x="192.20674" y="91.661819" font-size="4.5144px" style="line-height:1.25" xml:space="preserve"><tspan x="192.20674" y="91.661819" stroke-width=".26458">B</tspan></text>
-   <text transform="scale(.92179 1.0848)" x="227.64514" y="52.698658" font-size="4.1205px" style="line-height:1.25" xml:space="preserve"><tspan x="227.64514" y="52.698658" stroke-width=".26458">A</tspan></text>
-   <text transform="scale(1.1027 -.90688)" x="155.21048" y="-63.883999" font-size="4.6247px" style="line-height:1.25" xml:space="preserve"><tspan x="155.21048" y="-63.883999" stroke-width=".26458">-θ</tspan></text>
+   <text transform="scale(.89502 1.1173)" x="180.80757" y="51.268364" font-size="4.1364px" style="line-height:1.25" xml:space="preserve"><tspan x="180.80757" y="51.268364" stroke-width=".26458">O</tspan></text>
+   <text transform="scale(.97318 1.0276)" x="199.46227" y="88.570869" font-size="4.6849px" style="line-height:1.25" xml:space="preserve"><tspan x="199.46227" y="88.570869" stroke-width=".26458">B</tspan></text>
+   <text transform="scale(.88826 1.1258)" x="236.2386" y="51.00375" font-size="4.276px" style="line-height:1.25" xml:space="preserve"><tspan x="236.2386" y="51.00375" stroke-width=".26458">A</tspan></text>
+   <text transform="scale(1.0626 -.94111)" x="162.1877" y="-61.845894" font-size="4.7993px" style="line-height:1.25" xml:space="preserve"><tspan x="162.1877" y="-61.845894" stroke-width=".26458">-θ</tspan></text>
   </g>
  </g>
 </svg>
