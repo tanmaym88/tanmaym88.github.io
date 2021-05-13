@@ -41,8 +41,8 @@ output:
 - It has its applications in: Civil Engineering, Astronomy, Navigation, Acoustics, Optics, Architecture, etc.
 - Has been studied by mankind for thousands of years.
 
-<div class="fragment">
-![trig-icon](images/060101.svg){height=15%, width=15%}
+<div class="fragment" style="padding-top: 5%">
+![trig-icon](images/060101.svg){height=25%, width=25%}
 </div>
 
 # Angles and its Measurements
@@ -62,6 +62,16 @@ The initial position $OA$ is called the *initial side* and the final position $O
 
 <div class="fragment">
 **Sign Convention:** The sign of the angle is considered to be positive or negativeistalyporquesmakiportari, according as the ray is rotated in the anticlockwise or the clockwise direction.<br>
+Hello <br>
+Hello <br>
+Hello <br>
+Hello <br>
+Hello <br>
+Hello <br>
+Hello <br>
+Hello <br>
+Hello <br>
+Hello <br>
 
 ![sense-of-angle](images/060103.svg){height=50%, width=50%}
 </div>
