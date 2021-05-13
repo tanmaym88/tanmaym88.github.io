@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap&text=Hello');
 
-.reveal slides {
+.reveal slides, .reveal .slides>section, .reveal .slides>section>section{
   text-align: justify;
-  top: 0;
   margin-top: 0;
   padding-bottom: 2%;
   font-family: 'Source Sans Pro', sans-serif;
+  height: 100%;
+  overflow-y: auto;
 }
+
 
 .reveal p {
   text-align: justify;
@@ -14,10 +16,12 @@
 }
 
 .reveal h1 {
+  text-align: center;
   font-size: 6vmin;
 }
 
 .reveal h2 {
+  text-align: center;
   font-size: 5vmin;
 }
 
@@ -46,11 +50,13 @@
 
 .reveal h3.date { 
   font-size: 6vmin;
+  text-align: center;
 
 }
 
 .reveal h2.author {
   font-size: 6vmin;
+  text-align: center;
 }
 
 .reveal div#header {
@@ -93,21 +99,16 @@
 }
 
 .reveal img {
-  background:none; 
-  border:none; 
-  box-shadow:none; 
   display: block;
-  width: auto;
-  height: auto;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .reveal section img { 
-  background:none; 
-  border:none; 
-  box-shadow:none; 
+  margin-top: 1%;
+  overflow: hidden;
+}
+
+.reveal{
   display: block;
-  width: auto;
-  height: auto;
-  margin: 0 auto;
 }
